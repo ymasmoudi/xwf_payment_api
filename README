@@ -1,0 +1,14 @@
+
+
+First, fill the corresponding information for your partner 
+  - XWF_GRAPH_URL
+  - XWF_PARTNER_ID
+  - XWF_SECRET_KEY
+  - XWF_ACCESS_TOKEN
+
+Then, you can run the script using
+  - python3 xwf_payment_end_point.py 80
+
+
+This endpoint must be hosted behind a proxy/load-balancer using a valid SSL certificate.
+
